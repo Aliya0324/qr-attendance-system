@@ -1,0 +1,6 @@
+Flask
+opencv-python
+pandas
+qrcode
+pyzbar
+pillow
